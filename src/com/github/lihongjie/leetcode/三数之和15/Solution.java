@@ -1,8 +1,7 @@
-package com.github.lihongjie.三数之和15;
+package com.github.lihongjie.leetcode.三数之和15;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 /**

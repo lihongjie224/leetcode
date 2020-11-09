@@ -1,27 +1,26 @@
-package com.github.lihongjie.移动零283;
+package com.github.lihongjie.leetcode.移动零283;
 
 import java.util.Arrays;
 
-public class Solution2 {
+public class Solution3 {
 
     public void moveZeroes(int[] nums) {
-        int j = 0;
+
+        int index = 0;
         for (int i = 0; i < nums.length; i++) {
             if(nums[i] != 0) {
-                nums[j] = nums[i];
-                if(i != j) {
+                nums[index] = nums[i];
+                if(index != i) {
                     nums[i] = 0;
                 }
-                j++;
+                index ++;
             }
         }
-
-
     }
 
     public static void main(String[] args) {
         int[] nums = new int[] {1, 3, 0, 4, 0, 12};
-        new Solution2().moveZeroes(nums);
+        new Solution3().moveZeroes(nums);
         System.out.println(Arrays.toString(nums));
     }
 

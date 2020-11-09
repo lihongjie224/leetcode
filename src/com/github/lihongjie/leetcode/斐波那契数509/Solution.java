@@ -1,4 +1,4 @@
-package com.github.lihongjie.斐波那契数509;
+package com.github.lihongjie.leetcode.斐波那契数509;
 
 
 public class Solution {

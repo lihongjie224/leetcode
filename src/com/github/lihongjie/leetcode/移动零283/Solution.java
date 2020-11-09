@@ -1,4 +1,4 @@
-package com.github.lihongjie.移动零283;
+package com.github.lihongjie.leetcode.移动零283;
 
 import java.util.Arrays;
 

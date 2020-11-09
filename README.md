@@ -1,7 +1,14 @@
 ## 刷题记录
+> 2020-11-09
+- [141.环形链表(linked-list-cycle)](https://leetcode-cn.com/problems/linked-list-cycle/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [142.环形链表II(linked-list-cycle-ii)](https://leetcode-cn.com/problems/linked-list-cycle-ii/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [剑指offer22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) <img src="https://img.shields.io/badge/次数-1-red"/>
+> 2020-11-08
+- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-2-red"/>
+
 > 2020-11-07
-- [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-2-red"/>
-- [206.翻转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-3-orange"/>
+- [206.翻转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-3-orange"/>
 
 > 2020-11-06
 - [509.斐波那契数(fibonacci-number)](https://leetcode-cn.com/problems/fibonacci-number/) <img src="https://img.shields.io/badge/次数-3-orange"/>

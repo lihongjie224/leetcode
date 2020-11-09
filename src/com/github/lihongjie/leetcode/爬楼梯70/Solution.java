@@ -1,4 +1,4 @@
-package com.github.lihongjie.爬楼梯70;
+package com.github.lihongjie.leetcode.爬楼梯70;
 
 public class Solution {
 

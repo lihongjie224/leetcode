@@ -1,4 +1,4 @@
-package com.github.lihongjie.翻转链表206;
+package com.github.lihongjie.leetcode.翻转链表206;
 
 /**
  * 1.迭代 head.next -> null, next -> prev, save last

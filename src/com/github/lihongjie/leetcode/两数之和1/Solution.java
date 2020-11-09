@@ -1,4 +1,4 @@
-package com.github.lihongjie.两数之和1;
+package com.github.lihongjie.leetcode.两数之和1;
 
 import java.util.Arrays;
 

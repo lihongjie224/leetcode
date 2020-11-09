@@ -1,4 +1,4 @@
-package com.github.lihongjie.盛最多水的容器11;
+package com.github.lihongjie.leetcode.盛最多水的容器11;
 
 /**
  * 暴力法，双层遍历
