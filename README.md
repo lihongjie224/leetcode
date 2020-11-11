@@ -1,7 +1,12 @@
 ## 刷题记录
+> 2020-11-11
+- [9.回文数(palindrome-number)](https://leetcode-cn.com/problems/palindrome-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [21.合并两个有序链表(merge-two-sorted-lists)](https://leetcode-cn.com/problems/merge-two-sorted-lists/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [88.合并两个有序数组(merge-sorted-array)](https://leetcode-cn.com/problems/merge-sorted-array/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 > 2020-11-10
-- [26.删除排序数组中的重复项(remove-duplicates-from-sorted-array)](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [189.旋转数组(rotate-array)](https://leetcode-cn.com/problems/rotate-array/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [26.删除排序数组中的重复项(remove-duplicates-from-sorted-array)](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [189.旋转数组(rotate-array)](https://leetcode-cn.com/problems/rotate-array/) <img src="https://img.shields.io/badge/次数-2-red"/>
 
 > 2020-11-09
 - [141.环形链表(linked-list-cycle)](https://leetcode-cn.com/problems/linked-list-cycle/) <img src="https://img.shields.io/badge/次数-2-red"/>
