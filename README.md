@@ -17,8 +17,8 @@
 - [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-3-orange"/>
 
 > 2020-11-07
-- [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-4-orange"/>
-- [206.翻转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-4-orange"/>
+- [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-5-green"/>
+- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-5-green"/>
 
 > 2020-11-06
 - [509.斐波那契数(fibonacci-number)](https://leetcode-cn.com/problems/fibonacci-number/) <img src="https://img.shields.io/badge/次数-5-green"/>

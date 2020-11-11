@@ -1,8 +1,8 @@
-package com.github.lihongjie.leetcode.翻转链表206;
+package com.github.lihongjie.leetcode.反转链表206;
 
 import com.github.lihongjie.ListNode;
 
-public class Solution3 {
+public class Solution2 {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
