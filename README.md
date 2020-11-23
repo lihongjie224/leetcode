@@ -1,4 +1,8 @@
 ## 刷题记录
+> 2020-11-23
+- [242.有效的字母异位词(valid-anagram)](https://leetcode-cn.com/problems/valid-anagram/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [49.字母异位词分组(group-anagrams)](https://leetcode-cn.com/problems/group-anagrams/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 > 2020-11-16
 - [20.有效的括号(valid-parentheses)](https://leetcode-cn.com/problems/valid-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
 - [155.最小栈(min-stack)](https://leetcode-cn.com/problems/min-stack/) <img src="https://img.shields.io/badge/次数-1-red"/>
