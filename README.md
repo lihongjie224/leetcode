@@ -1,7 +1,11 @@
 ## 刷题记录
+> 2020-11-24
+- [94.二叉树的中序遍历(binary-tree-inorder-traversal)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
+
 > 2020-11-23
-- [242.有效的字母异位词(valid-anagram)](https://leetcode-cn.com/problems/valid-anagram/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [49.字母异位词分组(group-anagrams)](https://leetcode-cn.com/problems/group-anagrams/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [242.有效的字母异位词(valid-anagram)](https://leetcode-cn.com/problems/valid-anagram/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [49.字母异位词分组(group-anagrams)](https://leetcode-cn.com/problems/group-anagrams/) <img src="https://img.shields.io/badge/次数-2-red"/>
 
 > 2020-11-16
 - [20.有效的括号(valid-parentheses)](https://leetcode-cn.com/problems/valid-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
@@ -9,8 +13,8 @@
 
 > 2020-11-11
 - [9.回文数(palindrome-number)](https://leetcode-cn.com/problems/palindrome-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [21.合并两个有序链表(merge-two-sorted-lists)](https://leetcode-cn.com/problems/merge-two-sorted-lists/) <img src="https://img.shields.io/badge/次数-3-red"/>
-- [88.合并两个有序数组(merge-sorted-array)](https://leetcode-cn.com/problems/merge-sorted-array/) <img src="https://img.shields.io/badge/次数-3-red"/>
+- [21.合并两个有序链表(merge-two-sorted-lists)](https://leetcode-cn.com/problems/merge-two-sorted-lists/) <img src="https://img.shields.io/badge/次数-4-orange"/>
+- [88.合并两个有序数组(merge-sorted-array)](https://leetcode-cn.com/problems/merge-sorted-array/) <img src="https://img.shields.io/badge/次数-4-orange"/>
 
 > 2020-11-10
 - [26.删除排序数组中的重复项(remove-duplicates-from-sorted-array)](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) <img src="https://img.shields.io/badge/次数-2-red"/>
