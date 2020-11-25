@@ -3,19 +3,19 @@
 - [2.两数相加(add-two-numbers)](https://leetcode-cn.com/problems/add-two-numbers/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [589.N叉树的前序遍历(n-ary-tree-preorder-traversal)](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [590.N叉树的后序遍历(n-ary-tree-postorder-traversal)](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [22.括号生成(generate-parentheses)](https://leetcode-cn.com/problems/generate-parentheses/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [22.括号生成(generate-parentheses)](https://leetcode-cn.com/problems/generate-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
 - [98.验证二叉搜索树(validate-binary-search-tree)](https://leetcode-cn.com/problems/validate-binary-search-tree/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 > 2020-11-24
 - [94.二叉树的中序遍历(binary-tree-inorder-traversal)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
 
-
 > 2020-11-23
-- [242.有效的字母异位词(valid-anagram)](https://leetcode-cn.com/problems/valid-anagram/) <img src="https://img.shields.io/badge/次数-2-red"/>
-- [49.字母异位词分组(group-anagrams)](https://leetcode-cn.com/problems/group-anagrams/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [242.有效的字母异位词(valid-anagram)](https://leetcode-cn.com/problems/valid-anagram/) <img src="https://img.shields.io/badge/次数-3-red"/>
+- [49.字母异位词分组(group-anagrams)](https://leetcode-cn.com/problems/group-anagrams/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 > 2020-11-16
 - [20.有效的括号(valid-parentheses)](https://leetcode-cn.com/problems/valid-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
-- [155.最小栈(min-stack)](https://leetcode-cn.com/problems/min-stack/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [155.最小栈(min-stack)](https://leetcode-cn.com/problems/min-stack/) <img src="https://img.shields.io/badge/次数-2-red"/>
 
 > 2020-11-11
 - [9.回文数(palindrome-number)](https://leetcode-cn.com/problems/palindrome-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
