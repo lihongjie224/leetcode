@@ -1,4 +1,8 @@
 ## 刷题记录
+> 2020-11-26
+- [78.子集(subsets)](https://leetcode-cn.com/problems/subsets/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [169.多数元素(majority-element)](https://leetcode-cn.com/problems/majority-element/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 > 2020-11-25
 - [2.两数相加(add-two-numbers)](https://leetcode-cn.com/problems/add-two-numbers/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [589.N叉树的前序遍历(n-ary-tree-preorder-traversal)](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
@@ -32,11 +36,11 @@
 - [剑指offer22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 > 2020-11-08
-- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-6-green"/>
+- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-7-green"/>
 
 > 2020-11-07
 - [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-5-green"/>
-- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-5-green"/>
+- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-7-green"/>
 
 > 2020-11-06
 - [509.斐波那契数(fibonacci-number)](https://leetcode-cn.com/problems/fibonacci-number/) <img src="https://img.shields.io/badge/次数-5-green"/>
