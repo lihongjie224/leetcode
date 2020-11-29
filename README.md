@@ -1,4 +1,8 @@
 ## 刷题记录
+> 2020-11-27
+- [51.N皇后(n-queens)](https://leetcode-cn.com/problems/n-queens/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [454.四数相加II(4sum-ii)](https://leetcode-cn.com/problems/4sum-ii/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 > 2020-11-26
 - [78.子集(subsets)](https://leetcode-cn.com/problems/subsets/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [169.多数元素(majority-element)](https://leetcode-cn.com/problems/majority-element/) <img src="https://img.shields.io/badge/次数-1-red"/>
