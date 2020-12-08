@@ -1,7 +1,7 @@
 ## 刷题记录
 >2020-11-30
-- [50.Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [1021.删除最外层的括号(remove-outermost-parentheses)](https://leetcode-cn.com/problems/remove-outermost-parentheses/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [50.Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [1021.删除最外层的括号(remove-outermost-parentheses)](https://leetcode-cn.com/problems/remove-outermost-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
 
 > 2020-11-27
 - [51.N皇后(n-queens)](https://leetcode-cn.com/problems/n-queens/) <img src="https://img.shields.io/badge/次数-1-red"/>
@@ -9,11 +9,11 @@
 
 > 2020-11-26
 - [78.子集(subsets)](https://leetcode-cn.com/problems/subsets/) <img src="https://img.shields.io/badge/次数-3-red"/>
-- [169.多数元素(majority-element)](https://leetcode-cn.com/problems/majority-element/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [169.多数元素(majority-element)](https://leetcode-cn.com/problems/majorty-element/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [17.电话号码的字母组合(letter-combinations-of-a-phone-number)](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
 
 > 2020-11-25
-- [2.两数相加(add-two-numbers)](https://leetcode-cn.com/problems/add-two-numbers/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [2.两数相加(add-two-numbers)](https://leetcode-cn.com/problems/add-two-numbers/) <img src="https://img.shields.io/badge/次数-2-red"/>
 - [589.N叉树的前序遍历(n-ary-tree-preorder-traversal)](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [590.N叉树的后序遍历(n-ary-tree-postorder-traversal)](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) <img src="https://img.shields.io/badge/次数-1-red"/>
 - [22.括号生成(generate-parentheses)](https://leetcode-cn.com/problems/generate-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
