@@ -16,7 +16,7 @@ public class Solution3 {
             if(map.containsKey(key)) {
                 map.get(key).add(s);
             } else {
-                map.put(key, new ArrayList<>(){{add(s);}});
+                map.put(key, new ArrayList<String>(){{add(s);}});
             }
         }
 

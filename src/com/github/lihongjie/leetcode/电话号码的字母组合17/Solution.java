@@ -8,7 +8,7 @@ import java.util.Map;
 public class Solution {
     public List<String> letterCombinations(String digits) {
         if(digits.length() == 0) return new ArrayList<>();
-        Map<Character, String> map = new HashMap<>(){{
+        Map<Character, String> map = new HashMap<Character, String>(){{
            put('2', "abc");
            put('3', "def");
            put('4', "ghi");

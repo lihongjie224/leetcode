@@ -1,4 +1,8 @@
 ## 刷题记录
+>2021-02-01
+- [102.二叉树的层序遍历(binary-tree-level-order-traversal)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [107.二叉树的层序遍历 II(binary-tree-level-order-traversal-ii)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 >2020-11-30
 - [50.Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) <img src="https://img.shields.io/badge/次数-2-red"/>
 - [1021.删除最外层的括号(remove-outermost-parentheses)](https://leetcode-cn.com/problems/remove-outermost-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
@@ -10,7 +14,7 @@
 > 2020-11-26
 - [78.子集(subsets)](https://leetcode-cn.com/problems/subsets/) <img src="https://img.shields.io/badge/次数-3-red"/>
 - [169.多数元素(majority-element)](https://leetcode-cn.com/problems/majorty-element/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [17.电话号码的字母组合(letter-combinations-of-a-phone-number)](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [17.电话号码的字母组合(letter-combinations-of-a-phone-number)](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) <img src="https://img.shields.io/badge/次数-3-orange"/>
 
 > 2020-11-25
 - [2.两数相加(add-two-numbers)](https://leetcode-cn.com/problems/add-two-numbers/) <img src="https://img.shields.io/badge/次数-2-red"/>
@@ -28,7 +32,7 @@
 
 > 2020-11-16
 - [20.有效的括号(valid-parentheses)](https://leetcode-cn.com/problems/valid-parentheses/) <img src="https://img.shields.io/badge/次数-2-red"/>
-- [155.最小栈(min-stack)](https://leetcode-cn.com/problems/min-stack/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [155.最小栈(min-stack)](https://leetcode-cn.com/problems/min-stack/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 > 2020-11-11
 - [9.回文数(palindrome-number)](https://leetcode-cn.com/problems/palindrome-number/) <img src="https://img.shields.io/badge/次数-1-red"/>
@@ -45,11 +49,11 @@
 - [剑指offer22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 > 2020-11-08
-- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-6-green"/>
+- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-7-green"/>
 
 > 2020-11-07
 - [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-5-green"/>
-- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-6-green"/>
+- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-7-red"/>
 
 > 2020-11-06
 - [509.斐波那契数(fibonacci-number)](https://leetcode-cn.com/problems/fibonacci-number/) <img src="https://img.shields.io/badge/次数-5-green"/>
