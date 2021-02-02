@@ -1,7 +1,12 @@
 ## 刷题记录
+>2021-02-02
+- [122.买卖股票的最佳时机 II(best-time-to-buy-and-sell-stock-ii)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [455.分发饼干(assign-cookies)](https://leetcode-cn.com/problems/assign-cookies/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [55.跳跃游戏(jump-game)](https://leetcode-cn.com/problems/jump-game/) <img src="https://img.shields.io/badge/次数-2-red"/>
+
 >2021-02-01
 - [102.二叉树的层序遍历(binary-tree-level-order-traversal)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) <img src="https://img.shields.io/badge/次数-2-red"/>
-- [107.二叉树的层序遍历 II(binary-tree-level-order-traversal-ii)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [107.二叉树的层序遍历II(binary-tree-level-order-traversal-ii)](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) <img src="https://img.shields.io/badge/次数-1-red"/>
 
 >2020-11-30
 - [50.Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) <img src="https://img.shields.io/badge/次数-2-red"/>
