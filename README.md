@@ -1,8 +1,8 @@
 ## 刷题记录
 >2021-02-03
-- [69.x的平方根(sqrtx)](https://leetcode-cn.com/problems/sqrtx/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [367.有效的完全平方数(valid-perfect-square)](https://leetcode-cn.com/problems/valid-perfect-square/) <img src="https://img.shields.io/badge/次数-1-red"/>
-- [74.搜索二维矩阵(search-a-2d-matrix)](https://leetcode-cn.com/problems/search-a-2d-matrix/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [69.x的平方根(sqrtx)](https://leetcode-cn.com/problems/sqrtx/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [367.有效的完全平方数(valid-perfect-square)](https://leetcode-cn.com/problems/valid-perfect-square/) <img src="https://img.shields.io/badge/次数-2-red"/>
+- [74.搜索二维矩阵(search-a-2d-matrix)](https://leetcode-cn.com/problems/search-a-2d-matrix/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 >2021-02-02
 - [122.买卖股票的最佳时机 II(best-time-to-buy-and-sell-stock-ii)](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) <img src="https://img.shields.io/badge/次数-2-red"/>
