@@ -59,11 +59,11 @@
 - [剑指offer22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) <img src="https://img.shields.io/badge/次数-3-red"/>
 
 > 2020-11-08
-- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-7-green"/>
+- [24.两两交换链表中的节点(swap-nodes-in-pairs)](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) <img src="https://img.shields.io/badge/次数-8-green"/>
 
 > 2020-11-07
 - [15.三数之和(3sum)](https://leetcode-cn.com/problems/3sum/) <img src="https://img.shields.io/badge/次数-5-green"/>
-- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-7-red"/>
+- [206.反转链表(reverse-linked-list)](https://leetcode-cn.com/problems/reverse-linked-list/) <img src="https://img.shields.io/badge/次数-8-red"/>
 
 > 2020-11-06
 - [509.斐波那契数(fibonacci-number)](https://leetcode-cn.com/problems/fibonacci-number/) <img src="https://img.shields.io/badge/次数-5-green"/>
