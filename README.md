@@ -1,4 +1,9 @@
 ## 刷题记录
+
+>2021-02-27
+- [19.删除链表的倒数第N个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) <img src="https://img.shields.io/badge/次数-1-red"/>
+- [23.合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) <img src="https://img.shields.io/badge/次数-1-red"/>
+
 >2021-02-03
 - [69.x的平方根(sqrtx)](https://leetcode-cn.com/problems/sqrtx/) <img src="https://img.shields.io/badge/次数-2-red"/>
 - [367.有效的完全平方数(valid-perfect-square)](https://leetcode-cn.com/problems/valid-perfect-square/) <img src="https://img.shields.io/badge/次数-2-red"/>
